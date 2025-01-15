@@ -1,0 +1,40 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: white;
+  color: #212529;
+}
+h1,
+h2,
+h3 {
+  font-family: "Merriweather", serif;
+  padding: 50px 20px;
+}
+.hero {
+  background-color: #1a73e8;
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+}
+.btn-custom {
+  background-color: #fbbc05;
+  color: #212529;
+}
+.btn-custom:hover {
+  background-color: #ea4335;
+  color: white;
+}
+.col-lg-6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+button {
+  background-color: #1a73e8;
+  color: white;
+}
+
+option {
+  text-align: center;
+}
